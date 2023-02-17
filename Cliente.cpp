@@ -5,6 +5,8 @@ using namespace std;
 
 class Cliente : Persona{
 	//atributos 
+	//nuevo comentario
+	
 	private : string nit;
 	
 	//constructor
